@@ -4,8 +4,7 @@
 </p>
 
 <p align="center">
-<a href="#"><img title="noe999x src="https://img.shields.io/badge/noe999x-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
+<a href="#"><img title="noe999x" src="https://img.shields.io/badge/noe999x-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a></p>
 
 <a href="https://github.com/noe999x"><img title="Author" src="https://img.shields.io/badge/Author-ikz-red.svg?style=for-the-badge&logo=github"></a>
 <a href="https://github.com/noe999x"><img title="Recode" src="https://img.shields.io/badge/Recode-noe999x-red.svg?style=for-the-badge&logo=github"></a>
