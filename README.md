@@ -24,6 +24,6 @@
 ## Module Required
 $pip install requests bs4 futures<br>
 $pip install play-audio<br>
-$git clone https://github.com/noe999x/xxacke<br>
+$git clone https://github.com/noe999x/insta-bf<br>
 $cd insta-bf<br>
 $python main.py</br>
