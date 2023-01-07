@@ -4,7 +4,7 @@ from time import sleep as turu
 sis('git pull')
 sis('clear')
 def asu:
-    x=input('Sudahkah anda menginstall module yang dibutuhkan? (s/b) ?')
+    x=input('Sudahkah anda menginstall module yang dibutuhkan? (s/b)? : ')
     if x in['s','sudah','udh','udah']:
        import insta
     elif x in['b','belum','blm','belom']:
