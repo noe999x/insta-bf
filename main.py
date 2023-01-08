@@ -9,7 +9,7 @@ def asu():
        sis('git pull')
        import insta
     elif x in['b','belum','blm','belom']:
-         sis('pip install play-audio')
+         sis('pkg install play-audio')
          sis('pip install requests')
          print('Module has installed')
          turu(2)
