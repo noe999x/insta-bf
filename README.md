@@ -21,7 +21,7 @@
 <br><img title="piton" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 
 ## Module Required
-$pip install requests bs4 futures<br>
+$pip install requests bs4<br>
 $pkg install play-audio<br>
 $git clone https://github.com/noe999x/insta-bf<br>
 $cd insta-bf<br>
