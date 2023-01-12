@@ -9,14 +9,14 @@ def susu_ganyu():
 ⣿⣿⣿⣿⣿⡿⠋⠀⠀⣀⣠⣄⣀⠀⠀⠙⢿⣿⣿⣿⣿⣿  | |  | .` | \__ \   | |  / _ \ | (_ | |   /  / _ \  | |\/| |    
 ⣿⣿⣿⣿⣿⠁⠀⢠⣾⣿⣿⣿⣿⣷⡄⠀⠈⣿⣿⣿⣿⣿ |___| |_|\_| |___/   |_| /_/ \_\ \___| |_|_\ /_/ \_\ |_|  |_|    
 ⣿⣿⣿⣿⡇⠀⠀⢾⣿⣿⣿⣿⣿⣿⡷⠀⠀⢸⣿⣿⣿⣿ Codder : noe999x
-⣿⣿⣿⣿⣿⡀⠀⠘⢿⣿⣿⣿⣿⡿⠃⠀⢀⣿⣿⣿⣿⣿ Special thanks to : BrayennnXD - DerrXyr
+⣿⣿⣿⣿⣿⡀⠀⠘⢿⣿⣿⣿⣿⡿⠃⠀⢀⣿⣿⣿⣿⣿ Special thanks to : BrayennnXD - DerrXR
 ⣿⣿⣿⣿⣿⣷⣄⠀⠀⠉⠙⠋⠉⠀⠀⣠⣾⣿⣿⣿⣿⣿ Last updated on github : 12-01-2023 [FinalVer]
 ⣿⣿⣿⣿⣿⣿⣿⣷⣦⣤⣀⣀⣤⣴⣾⣿⣿⣿⣿⣿⣿⣿ ••••••••••••••••••••••••
 ⠹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠏ facebook.com/bagasekaapr
 ⠀⠈⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⠁⠀ github.com/noe999x""")
 def susu_nahida():
     susu_ganyu()
-    print('1. Russian\n2. English\n3. Bahasa Indonesia\n0. Update SC')
+    print('1. Russian\n2. English\n3. Indonesian\n0. Update SC')
     lumine=input('Mulai program dengan bahasa : ')
     if lumine in['1']:
        import insta_ru
