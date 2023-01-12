@@ -3,7 +3,7 @@ from time import sleep as turu
 from os import system as sis
 sis('clear')
 print('1. Russian\n2. English\n3. Bahasa Indonesia\n0. Install bahan')
-x=input('Pilih methode bahasa : ')
+x=input('Pilih bahasa : ')
 if x in['1']:
    sis('git pull')
    import insta_ru
