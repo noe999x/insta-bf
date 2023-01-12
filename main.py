@@ -10,7 +10,7 @@ def susu_ganyu():
 ⣿⣿⣿⣿⣿⠁⠀⢠⣾⣿⣿⣿⣿⣷⡄⠀⠈⣿⣿⣿⣿⣿ |___| |_|\_| |___/   |_| /_/ \_\ \___| |_|_\ /_/ \_\ |_|  |_|    
 ⣿⣿⣿⣿⡇⠀⠀⢾⣿⣿⣿⣿⣿⣿⡷⠀⠀⢸⣿⣿⣿⣿ Codder : noe999x
 ⣿⣿⣿⣿⣿⡀⠀⠘⢿⣿⣿⣿⣿⡿⠃⠀⢀⣿⣿⣿⣿⣿ Special thanks to : BrayennnXD - DerrXR
-⣿⣿⣿⣿⣿⣷⣄⠀⠀⠉⠙⠋⠉⠀⠀⣠⣾⣿⣿⣿⣿⣿ Last updated on github : 12-01-2023 [FinalVer]
+⣿⣿⣿⣿⣿⣷⣄⠀⠀⠉⠙⠋⠉⠀⠀⣠⣾⣿⣿⣿⣿⣿ Last updated on github : 13-01-2023 [FinalVer]
 ⣿⣿⣿⣿⣿⣿⣿⣷⣦⣤⣀⣀⣤⣴⣾⣿⣿⣿⣿⣿⣿⣿ ••••••••••••••••••••••••
 ⠹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠏ facebook.com/bagasekaapr
 ⠀⠈⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⠁⠀ github.com/noe999x""")
