@@ -16,17 +16,18 @@ def susu_ganyu():
 ⠀⠈⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⠁⠀ github.com/noe999x""")
 def susu_nahida():
     susu_ganyu()
-    print('1. Russian\n2. English\n3. Indonesian\n0. Update SC')
+    print('1. Russian\n2. English\n3. Indonesian,\n0. Install Bahan')
     lumine=input('Mulai program dengan bahasa : ')
     if lumine in['1']:
+       hutao('git pull')
        import insta_ru
     elif lumine in['2']:
+         hutao('git pull')
          import insta_en
     elif lumine in['3']:
          print('• Bahasa belum tersedia');barbara(2)
          susu_nahida()
     elif lumine in['0']:
-         hutao('git pull')
          hutao('pkg install play-audio')
     else:print('• Yang bener su');barbara(2);hutao('python main.py')
 susu_nahida()
